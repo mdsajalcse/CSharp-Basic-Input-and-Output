@@ -14,4 +14,10 @@ Console.Write(" and Output");
 Console.WriteLine("Printing Variables and Literals using WriteLine() and Write()");
 int Value = 50;
 Console.WriteLine(Value);
-Console.WriteLine(50.50);?
+Console.WriteLine(50.50);
+
+//Printing Concatenated String using + operator
+
+int optValue = 90;
+Console.WriteLine("Operator or Integer Value::"+optValue);
+Console.WriteLine("Hello String" + " you Add me");
